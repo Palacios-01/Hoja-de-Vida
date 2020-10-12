@@ -1,1 +1,44 @@
 # Hoja-de-Vida
+<html>
+<head>
+<title> HOJA DE VIDA DE ALEJANDRA</title>
+
+
+</head>
+<p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
+
+<P><b><H2>DATOS PRESONALES</H2></b></P>
+<TR>
+<TABLE border="1" width="60%" height="160" >
+<TR><TD><B>Cedula:  </B></TD> <TD >8-978-1097</TD>
+<TR><TD><B>Apellidos:  </B></TD> <TD>Palacios Riquelme</TD>   
+<TR><TD><B>Nombres:  </B></TD> <TD>Alejandra Isabel</TD> 
+<TR><TD><B>Sexo:  </B></TD> <TD>Mujer</TD> 
+<TR><TD><B>Fecha de Nacimiento:  </B></TD>
+  <TD>1 de enero del 2002</TD> 
+  <TR><TD><B>Edad:  </B></TD>
+  <TD>18 </TD> 
+<TR><TD><B>Estado Civil:  </B></TD>
+  <TD>Soltera
+<TR><TD><B>Direccion:  </B></TD>
+  <TD>Panamá, Panamá, San Francisco</TD>
+<TR><TD><B>Email:  </B></TD>
+  <TD>apalacios010102@gmail.com</TD> 
+<TR><TD><B>Celular:  </B></TD>
+  <TD>65837581</TD> 
+
+</TABLE>
+
+<P><b><H2>ESTUDIOS</H2></b></P>
+
+
+<BR><b>Secundarios</b></BR>
+<BR><li>Instituto Episcopal San Cristóbal</li></BR>
+
+<P><b><H2>INTERESADA EN</H2></b></P>
+<li>Música</li>
+<li>Cine</li>
+<li>Libros</li>
+
+</body>
+</html>
