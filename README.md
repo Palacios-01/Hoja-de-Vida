@@ -28,7 +28,6 @@
 
 <P><b><H2>ESTUDIOS</H2></b></P>
 
-
 <BR><b>Secundarios</b></BR>
 <BR><li>Instituto Episcopal San Cristóbal</li></BR>
 
