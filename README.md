@@ -1,10 +1,7 @@
 # Hoja-de-Vida
 <html>
 <head>
-<title> HOJA DE VIDA DE ALEJANDRA</title>
-
-
-</head>
+  
 <p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
 
 <P><b><H2>DATOS PRESONALES</H2></b></P>
